@@ -1,5 +1,5 @@
 
-# version 4
+# version 5
 
 # Python exercise to duplicate command line tool 'find'
 # 13/11/22 AH
